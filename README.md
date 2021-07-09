@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel 👋
 
-Personal projects that I'm working:
+Personal projects that I'm currently working on:
 
 [![stork-note](https://github-readme-stats.vercel.app/api/pin/?username=gabrielstork&repo=stork-note&theme=tokyonight)](https://github.com/gabrielstork/stork-note)
 
