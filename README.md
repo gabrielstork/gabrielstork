@@ -8,6 +8,4 @@ Personal projects that I'm currently working on:
 
 My stats:
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielstork&show_icons=true&theme=tokyonight)](https://github.com/gabrielstork)
-
-
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielstork&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/gabrielstork)
