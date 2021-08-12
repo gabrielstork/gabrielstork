@@ -12,7 +12,4 @@ Knowledges:
 * :package: Packages
 * :robot: Bots
 
-
-Creator of [@GrompBot](https://twitter.com/GrompBot) on Twitter.
-
 You can check my personal public projects on pinned repositories.
