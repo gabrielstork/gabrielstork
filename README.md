@@ -6,7 +6,7 @@ I'm a 22 years old engineering student, fascinated by Python language.
 
 Knowledges:
 
-* :computer: Web Development
+* :globe_with_meridians: Web Development
 * :brain: Machine Learning
 * :framed_picture: Computer Vision
 * :page_facing_up: Web Scraping
