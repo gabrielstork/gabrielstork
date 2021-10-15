@@ -4,7 +4,7 @@
 
 I'm a 22 years old engineering student, fascinated by Python language.
 
-Knowledges:
+All my projects and contributions here are somehow related with the following topics:
 
 * :globe_with_meridians: Web Development
 * :brain: Machine Learning
