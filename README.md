@@ -1,5 +1,7 @@
 ### Hi there, I'm Gabriel 👋
 
+Creator of [jrbrdevs](https://www.jrdevsbr.com/), a web application to help junior developers get their first job by making it easy to recruiters find them.
+
 I'm a 23 years old engineering student, fascinated by Python language.
 
 All my projects and contributions here are somehow related with the following topics:
